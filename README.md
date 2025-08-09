@@ -1,3 +1,32 @@
+<div align="center">
+  <!-- Animated Typing Text -->
+  <h1>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Ranviiicoder!;Data+Scientist+%7C+ML+Enthusiast!" alt="Typing SVG" />
+    </a>
+  </h1>
+
+  <!-- Floating Emojis -->
+  <div>
+    <span style="display: inline-block; animation: float 3s ease-in-out infinite;">📊</span>
+    <span style="display: inline-block; animation: float 3s ease-in-out infinite; animation-delay: 1s;">🤖</span>
+    <span style="display: inline-block; animation: float 3s ease-in-out infinite; animation-delay: 2s;">🧠</span>
+  </div>
+
+  <!-- Glowing Text -->
+  <h2 style="color: #FF6B6B; text-shadow: 0 0 10px #FF6B6B, 0 0 20px #FF6B6B, 0 0 30px #FF6B6B;">
+    Welcome to My GitHub! ✨
+  </h2>
+</div>
+
+<style>
+  @keyframes float {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-10px); }
+  }
+</style>
+
+
 # Hi there, I'm Ranviiicoder! 👋
 
 I'm a passionate data scientist with expertise in machine learning, data analysis, and visualization. I love turning data into actionable insights.
@@ -11,6 +40,9 @@ I'm a passionate data scientist with expertise in machine learning, data analysi
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ranviiicoder&show_icons=true&theme=radical)
+
+## 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=Ranviiicoder&theme=onedark)
 
 ## 📈 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranviiicoder&layout=compact&theme=radical)
