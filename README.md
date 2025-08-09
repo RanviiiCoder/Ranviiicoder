@@ -19,18 +19,6 @@
   </h2>
 </div>
 
-<style>
-  @keyframes float {
-    0%, 100% { transform: translateY(0); }
-    50% { transform: translateY(-10px); }
-  }
-</style>
-
-
-<div align="center">
-  <img src="https://lottiefiles.com/free-animation/robot-bot-3d-g88vkYzJuu" alt="3D Banner" width="500"/>
-</div>
-
 
 I'm a passionate data scientist with expertise in machine learning, data analysis, and visualization. I love turning data into actionable insights.
 
