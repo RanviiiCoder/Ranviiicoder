@@ -1,15 +1,23 @@
-# Hi there, I'm Ranviiicoder! 👋
-
 <div align="center">
-  <svg width="500" height="100" viewBox="0 0 500 100">
-    <text x="50%" y="50%" font-size="40" text-anchor="middle" fill="#FF6B6B" font-weight="bold">
-      <animate attributeName="opacity" values="0;1;0" dur="3s" repeatCount="indefinite"/>
-      <animateTransform attributeName="transform" type="translate" values="0 0; 0 -10; 0 0" dur="3s" repeatCount="indefinite"/>
-      Welcome to My GitHub!
-    </text>
-  </svg>
-</div>
+  <!-- Animated Typing Text -->
+  <h1>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Ranviiicoder!;Data+Scientist+%7C+ML+Enthusiast!" alt="Typing SVG" />
+    </a>
+  </h1>
 
+  <!-- Floating Emojis -->
+  <div>
+    <span style="display: inline-block; animation: float 3s ease-in-out infinite;">📊</span>
+    <span style="display: inline-block; animation: float 3s ease-in-out infinite; animation-delay: 1s;">🤖</span>
+    <span style="display: inline-block; animation: float 3s ease-in-out infinite; animation-delay: 2s;">🧠</span>
+  </div>
+
+  <!-- Glowing Text -->
+  <h2 style="color: #FF6B6B; text-shadow: 0 0 10px #FF6B6B, 0 0 20px #FF6B6B, 0 0 30px #FF6B6B;">
+    Welcome to My GitHub! ✨
+  </h2>
+</div>
 
 I'm a passionate data scientist with expertise in machine learning, data analysis, and visualization. I love turning data into actionable insights.
 
