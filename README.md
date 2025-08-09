@@ -1,17 +1,14 @@
-<div align="center">
-  <h1>
-    <span style="display: inline-block; animation: float 3s ease-in-out infinite;">👋</span>
-    Hi, I'm Ranviiicoder!
-    <span style="display: inline-block; animation: float 3s ease-in-out infinite; animation-delay: 1s;">🚀</span>
-  </h1>
-</div>
+# Hi there, I'm Ranviiicoder! 👋
 
-<style>
-  @keyframes float {
-    0%, 100% { transform: translateY(0); }
-    50% { transform: translateY(-10px); }
-  }
-</style>
+<div align="center">
+  <svg width="500" height="100" viewBox="0 0 500 100">
+    <text x="50%" y="50%" font-size="40" text-anchor="middle" fill="#FF6B6B" font-weight="bold">
+      <animate attributeName="opacity" values="0;1;0" dur="3s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0 0; 0 -10; 0 0" dur="3s" repeatCount="indefinite"/>
+      Welcome to My GitHub!
+    </text>
+  </svg>
+</div>
 
 
 I'm a passionate data scientist with expertise in machine learning, data analysis, and visualization. I love turning data into actionable insights.
