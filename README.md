@@ -20,15 +20,13 @@
 </div>
 
 <div align="center">
-  <!-- Floating Emojis with Inline CSS -->
-  <span style="display: inline-block; animation: float 3s ease-in-out infinite;">📊</span>
-  <span style="display: inline-block; animation: float 3s ease-in-out infinite; animation-delay: 1s;">🤖</span>
-  <span style="display: inline-block; animation: float 3s ease-in-out infinite; animation-delay: 2s;">🧠</span>
-
-  <!-- Glowing Text with Inline CSS -->
-  <h2 style="color: #FF6B6B; text-shadow: 0 0 10px #FF6B6B, 0 0 20px #FF6B6B, 0 0 30px #FF6B6B;">
-    Welcome to My GitHub! ✨
-  </h2>
+  <!-- Animated SVG Text -->
+  <svg width="500" height="100" viewBox="0 0 500 100">
+    <text x="50%" y="50%" font-size="30" text-anchor="middle" fill="#FF6B6B">
+      <animate attributeName="opacity" values="0;1;0" dur="3s" repeatCount="indefinite"/>
+      Welcome to My GitHub! 🚀
+    </text>
+  </svg>
 </div>
 
 I'm a passionate data scientist with expertise in machine learning, data analysis, and visualization. I love turning data into actionable insights.
