@@ -25,8 +25,8 @@ I'm a passionate data scientist with expertise in machine learning, data analysi
 
 ## 🚀 Projects
 Here are some of my notable projects:
-- [Project 1](https://github.com/Ranviiicoder/project1): A machine learning model for predicting X.
-- [Project 2](https://github.com/Ranviiicoder/project2): A data visualization tool for Y.
+- [Project 1](https://github.com/Ranviiicoder/Movie-Recommendation-System): A machine learning model for predicting X.
+- [Project 2](https://github.com/Ranviiicoder/Image-Segrmentation-for-Disaster-Reciliense): A data visualization tool for Y.
 
 ## 🔥 Fun Fact
 I once trained a model to predict the weather using only historical data from my backyard!
