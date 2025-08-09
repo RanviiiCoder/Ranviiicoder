@@ -19,6 +19,18 @@
   </h2>
 </div>
 
+<div align="center">
+  <!-- Floating Emojis with Inline CSS -->
+  <span style="display: inline-block; animation: float 3s ease-in-out infinite;">📊</span>
+  <span style="display: inline-block; animation: float 3s ease-in-out infinite; animation-delay: 1s;">🤖</span>
+  <span style="display: inline-block; animation: float 3s ease-in-out infinite; animation-delay: 2s;">🧠</span>
+
+  <!-- Glowing Text with Inline CSS -->
+  <h2 style="color: #FF6B6B; text-shadow: 0 0 10px #FF6B6B, 0 0 20px #FF6B6B, 0 0 30px #FF6B6B;">
+    Welcome to My GitHub! ✨
+  </h2>
+</div>
+
 I'm a passionate data scientist with expertise in machine learning, data analysis, and visualization. I love turning data into actionable insights.
 
 ## 🔧 Technologies & Tools
