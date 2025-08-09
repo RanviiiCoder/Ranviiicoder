@@ -19,15 +19,6 @@
   </h2>
 </div>
 
-<div align="center">
-  <!-- Animated SVG Text -->
-  <svg width="500" height="100" viewBox="0 0 500 100">
-    <text x="50%" y="50%" font-size="30" text-anchor="middle" fill="#FF6B6B">
-      <animate attributeName="opacity" values="0;1;0" dur="3s" repeatCount="indefinite"/>
-      Welcome to My GitHub! 🚀
-    </text>
-  </svg>
-</div>
 
 I'm a passionate data scientist with expertise in machine learning, data analysis, and visualization. I love turning data into actionable insights.
 
