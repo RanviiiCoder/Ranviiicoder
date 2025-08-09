@@ -27,7 +27,10 @@
 </style>
 
 
-# Hi there, I'm Ranviiicoder! 👋
+<div align="center">
+  <img src="https://lottiefiles.com/free-animation/robot-bot-3d-g88vkYzJuu" alt="3D Banner" width="500"/>
+</div>
+
 
 I'm a passionate data scientist with expertise in machine learning, data analysis, and visualization. I love turning data into actionable insights.
 
