@@ -6,8 +6,8 @@ I'm a passionate data scientist with expertise in machine learning, data analysi
 - **Languages**: Python, R, SQL
 - **Frameworks**: TensorFlow, PyTorch, Scikit-learn
 - **Tools**: Jupyter Notebook, Pandas, NumPy, Matplotlib, Seaborn
-- **Databases**: MySQL, PostgreSQL, MongoDB
-- **Cloud**: AWS, Google Cloud, Azure
+- **Databases**: MySQL, D3, HTML, CSS, js
+- **Cloud**: AI-Azure
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ranviiicoder&show_icons=true&theme=radical)
